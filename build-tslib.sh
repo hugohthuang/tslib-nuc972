@@ -1,4 +1,6 @@
 #!/bin/bash
+# 2015/11/09 v1.1 OK!
+
 TSLIB_SRC=$PWD/tslib
 
 TSLIB_INSTALL=$PWD/install-tslib
